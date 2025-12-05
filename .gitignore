@@ -1,0 +1,15 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
+publish/
+dist/
+packages/
+*.nupkg
